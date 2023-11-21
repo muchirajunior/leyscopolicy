@@ -56,4 +56,4 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at info@leysco.co.ke or visit our website https://leysco.co.ke
+If you have any questions or concerns about this Privacy Policy, please contact us at info@leysco.com or visit our website https://leysco.com

@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to Leysco100 mobile app policy. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our mobile application, Leysco100 sales app available on the Google Play Store.
+Welcome to Leysco100 mobile app policy. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our mobile application, Leysco100 sales app that is available on the Google Play Store.
 
 By installing, accessing, or using the App, you agree to the terms and conditions of this Privacy Policy.
 
@@ -34,7 +34,7 @@ We may use your email address to send you updates, newsletters, and other inform
 ## 4. Location Data
 
 ### 4.1 Background Location
-The App may collect and transmit your location data, including background location, to provide location-based services related to sales and logistics.
+The App may collect and transmit your location data, including background location, to provide location-based services related to sales and logistics(dispatch).
 
 ### 4.2 User Control
 You can control the App's access to location data through your device settings.

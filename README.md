@@ -1,10 +1,10 @@
-# Privacy Policy for LEYSCO100 SALES APP
+# Privacy Policy for LEYSCO SALES APP
 
 **Last Updated:** 21/11/2023
 
 ## 1. Introduction
 
-Welcome to Leysco100 mobile app policy. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our mobile application, Leysco100 sales app that is available on the Google Play Store.
+Welcome to Leysco mobile app policy. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our mobile application, Leysco sales app that is available on the Google Play Store.
 
 By installing, accessing, or using the App, you agree to the terms and conditions of this Privacy Policy.
 
